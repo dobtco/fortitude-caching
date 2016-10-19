@@ -35,3 +35,7 @@ class Views::Pages::Show < Views::Base
   end
 end
 ```
+
+## License
+
+MIT
