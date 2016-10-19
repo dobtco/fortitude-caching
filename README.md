@@ -1,7 +1,7 @@
 fortitude-caching
 ====
 
-Integrates Rails [fragment caching]() with [Fortitude].
+Integrates [Rails fragment caching](http://guides.rubyonrails.org/caching_with_rails.html#fragment-caching) with [Fortitude](https://github.com/ageweke/fortitude).
 
 ## Usage
 
